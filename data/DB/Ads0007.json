@@ -1,0 +1,22 @@
+{
+    "adId": "0007",
+    "PJ_associated": null,
+    "user_id": "007",
+    "user_name": "Lucas",
+    "description": "Garrafas de refrigerante",
+    "coordinates" : [-1.2786293980747716, -47.93305497560647],
+    "latitude": -1.2786293980747716,
+    "longitude": -47.93305497560647,
+    "type": "Oferta",
+    "operation":"Doação",
+    "days_of_the_week": ["Seg", "Ter", "Qua", "Qui", "Sex"],
+    "measure_unit": "Kg",
+    "status": "Disponivel",
+    "material_type": "plástico",
+    "amount": 12,
+    "user_attending": "000", 
+    "material_subtype": "garrafa",
+    "photo": "http://",
+    "active": true
+ }
+

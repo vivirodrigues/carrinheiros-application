@@ -1,0 +1,27 @@
+{	
+    "id": "004",
+	"name": "Italo",
+    "email": "italo@email.com",
+	"password": "senha",
+	"PJ_associated": null,
+    "pontuation": 0,
+    "cep": "55555555",
+    "online": true,
+    "token": ["tokens de acesso"],    
+    "interest": "descartar",
+    "coordinates" : [-22.82263071522966, -47.085336957110385],
+    "phone": "91987854771",
+    "photo": "http://",
+    "type": "colaborador",
+    "attended_ads": [],
+    "notifications": [
+		{
+	    "viewed": false,
+        "action": "Conversando",
+        "adId": "0006",
+        "from": "000"
+		}
+	],
+	"conversations": ["ainda falta definir o Schema das conversation"],
+	"origin": "insomnia"
+}

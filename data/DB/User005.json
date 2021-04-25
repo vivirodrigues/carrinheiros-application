@@ -1,0 +1,27 @@
+{	
+    "id": "004",
+	"name": "Luciano",
+    "email": "roberval@email.com",
+	"password": "senha",
+	"PJ_associated": null,
+    "pontuation": 0,
+    "cep": "55555555",
+    "online": true,
+    "token": ["tokens de acesso"],    
+    "interest": "descartar",
+    "coordinates" : [-22.819964, -47.067872],
+    "phone": "91987854771",
+    "photo": "http://",
+    "type": "colaborador",
+    "attended_ads": [],
+    "notifications": [
+		{
+	    "viewed": false,
+        "action": "Conversando",
+        "adId": "0005",
+        "from": "000"
+		}
+	],
+	"conversations": ["ainda falta definir o Schema das conversation"],
+	"origin": "insomnia"
+}

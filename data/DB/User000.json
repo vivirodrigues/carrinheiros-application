@@ -1,0 +1,46 @@
+{	
+    "id": "000",	
+	"name": "Kauane",
+    "email": "kauane@email.com",
+	"password": "senha",
+	"PJ_associated": null,
+    "pontuation": 0,
+    "cep": "55555555",
+    "online": true,
+    "token": ["tokens de acesso"],    
+    "interest": "coletar",
+    "coordinates" : [-22.816008, -47.075614],
+    "coordinates_depot": [-22.816008, -47.075614],    
+    "phone": "91984078877",
+    "photo": "http://",
+    "type": "catador",
+    "attended_ads": ["0001","0002","0003", "0004", "0005", "0006", "0007"],
+    "notifications": [
+		{
+	    "viewed": true,
+        "action": "Conversando",
+        "adId": "0001",
+        "from": "001"
+		},
+        {
+        "viewed": true,
+        "action": "Conversando",
+        "adId": "0002",
+        "from": "002"
+        },
+        {
+        "viewed": true,
+        "action": "Conversando",
+        "adId": "0003",
+        "from": "003"
+        },
+        {
+        "viewed": true,
+        "action": "Conversando",
+        "adId": "0004",
+        "from": "004"
+        }
+	],	
+	"conversations": ["ainda falta definir o Schema das conversation"],
+	"origin": "insomnia"
+}
